@@ -58,10 +58,11 @@ This repository contains the implementation and resources for "Online Monitoring
    - Handles rooftop detection using a pre-trained DeepLabV3+ model.
    - Provides functionality to overlay segmentation results and display images.
    - ![image alt](https://github.com/Utkarshsah2004/Unauthorized-construction-using-drone-live-feed/blob/main/Drone%20image.png?raw=true)
+   - ![image alt](https://github.com/Utkarshsah2004/Unauthorized-construction-using-drone-live-feed/blob/main/Rooftop%20detection.png?raw=true)
 2. **2_1_Area_cal.py:**
    - Implements region-growing algorithms to calculate area of clusters.
    - Assigns meaningful names to clusters and displays results visually.
-
+   
 3. **2_2_HuMoments2.py:**
    - Extracts and logs Hu Moments to analyze image shapes.
    - Provides insights into object contours and shape variations.
