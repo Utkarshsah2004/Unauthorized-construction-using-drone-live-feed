@@ -62,7 +62,8 @@ This repository contains the implementation and resources for "Online Monitoring
 2. **2_1_Area_cal.py:**
    - Implements region-growing algorithms to calculate area of clusters.
    - Assigns meaningful names to clusters and displays results visually.
-   
+   - ![image alt](https://github.com/Utkarshsah2004/Unauthorized-construction-using-drone-live-feed/blob/main/Image%20before%20unauthorized%20construction.jpg?raw=true)
+   - ![image alt](https://github.com/Utkarshsah2004/Unauthorized-construction-using-drone-live-feed/blob/main/Image%20after%20unauthorized%20construction.jpg?raw=true)
 3. **2_2_HuMoments2.py:**
    - Extracts and logs Hu Moments to analyze image shapes.
    - Provides insights into object contours and shape variations.
@@ -70,10 +71,8 @@ This repository contains the implementation and resources for "Online Monitoring
 4. **3_XNOR.py:**
    - Performs bitwise XNOR operation on binary images to detect differences.
    - Highlights discrepancies in red for easy visualization.
-
-### Presentation
-- **SIH 2024 FINAL.pptx:** A detailed presentation covering the problem statement, solution approach, technical feasibility, and potential impact.
-
+   - ![image alt](https://github.com/Utkarshsah2004/Unauthorized-construction-using-drone-live-feed/blob/main/Unauthorized%20construction%20detected.jpg?raw=true)
+     
 ---
 
 ## Usage
